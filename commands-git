@@ -14,4 +14,8 @@ La commande : git clone + url ( disponible dans notre repository )
 
 Ajout du remote > local  avec la commande git pull 
 
+//commande pour voir dans quel branch nous somme
+         - git branch
+switcher de branch : 
+            - git checkout + nom de la branch
 
