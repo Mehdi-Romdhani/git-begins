@@ -12,3 +12,6 @@ La commande : git clone + url ( disponible dans notre repository )
 // all commands 
 
 
+Ajout du remote > local  avec la commande git pull 
+
+
